@@ -9,11 +9,11 @@ class Item{
 	ArrayList invenList = new ArrayList();
 
 	Item(File file){
-		File file = new file();
+		File file1 = new file();
 		Scanner fileScan = new Scanner(file);
-		itemName = iscnr.nextString();
-		itemQuantity = iscnr.nextInt();
-		itemUnit = iscnr.nextString();
+		itemName = fileScan.next();
+		itemQuantity = fileScan.nextInt();
+		itemUnit = fileScan.next();
 		invenList.add();
 	}
 
