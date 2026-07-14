@@ -1,0 +1,4 @@
+date,ingredient,quantity,unit_cost,total,supplier,invoice_number
+2026-07-13,Chicken breast,12000,0.42,5040,Abebe Foods,INV-2041
+2026-07-13,Burger bun,100,14,1400,Fresh Bakery,INV-2042
+2026-07-13,Cooking oil,10000,0.20,2000,Market Supply,INV-2043
